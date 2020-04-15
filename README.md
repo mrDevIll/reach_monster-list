@@ -1,4 +1,10 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+react search from external api implementation
+demo @ https://peaceful-leakey-7d39c2.netlify.app/
+
 
 ## Available Scripts
 
